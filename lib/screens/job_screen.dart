@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rent_work/components/custom_appbar.dart';
-import 'package:rent_work/components/custom_dropdown_content.dart';
-import 'package:rent_work/components/text_utils.dart';
-import 'package:rent_work/constant.dart';
 import 'package:unicons/unicons.dart';
+import 'package:rent_work/core.dart';
 
 class JobScreen extends StatefulWidget {
   const JobScreen({super.key});

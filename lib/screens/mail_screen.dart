@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:rent_work/components/custom_appbar.dart';
-import 'package:rent_work/components/text_utils.dart';
-import 'package:rent_work/constant.dart';
+import 'package:rent_work/core.dart';
 
 class MailScreen extends StatefulWidget {
   const MailScreen({super.key});

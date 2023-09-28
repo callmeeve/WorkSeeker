@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rent_work/components/job_card.dart';
-import 'package:rent_work/components/text_utils.dart';
-import 'package:rent_work/constant.dart';
-import 'package:rent_work/models/job.dart';
+import 'package:rent_work/core.dart';
 import 'package:unicons/unicons.dart';
 
 class HomeScreen extends StatefulWidget {
