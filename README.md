@@ -1,4 +1,4 @@
-# rent_work
+# WorkSeeker
 
 A new Flutter project.
 
