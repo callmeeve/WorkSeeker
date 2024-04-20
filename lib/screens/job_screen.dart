@@ -42,7 +42,7 @@ class _JobScreenState extends State<JobScreen> {
               ),
             ],
             bottom: const TabBar(
-              indicatorColor: secondary,
+              indicatorColor: primary,
               tabs: <Widget>[
                 Tab(
                   child: TextUtils(
